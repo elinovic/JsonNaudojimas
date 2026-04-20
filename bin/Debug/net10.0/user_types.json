@@ -1,0 +1,26 @@
+"vartotojai":{
+{
+  "Name": "John Doe",
+  "Age": 30,
+  "City": "New York"
+  "UserType":"RegularUser"
+}
+{
+  "Name": "John reoe",
+  "Age": 20,
+  "City": "kaunas"
+  "UserType":"Admin"
+}
+{
+  "Name": "John wae",
+  "Age": 50,
+  "City": "siauliai"
+  "UserType":"Admin"
+}
+{
+  "Name": "John john",
+  "Age": 40,
+  "City": "vilnius"
+  "UserType":"RegularUser"
+}
+}
